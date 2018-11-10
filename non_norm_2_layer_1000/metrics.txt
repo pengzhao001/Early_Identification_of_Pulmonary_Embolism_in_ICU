@@ -1,0 +1,11 @@
+Testing Accuracy: 0.5978260636329651
+Precision: 0.5181595949013446
+Recall: 0.5978260869565217
+f1_score: 0.5165687814182963
+AUC: 0.49239350912778906
+Confusion Matrix:
+3,31
+6,52
+Confusion matrix (normalised to % of total test data):
+3.26087,33.6957
+6.52174,56.5217

@@ -1,0 +1,9 @@
+n_steps: 2000
+n_hidden: 10
+n_classes: 2
+n_features: 4
+learning_rate: 0.002
+lambda_loss_amount: 0.001
+training_iters: 81000
+batch_size: 50
+display_iter: 100
