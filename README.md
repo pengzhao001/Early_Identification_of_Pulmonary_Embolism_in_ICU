@@ -23,6 +23,10 @@ The goal was to predict the onset of PE with patient's clinical attributes and E
 Clinical variables frequently associated with the diagnosis of PE were identified with contrast set mining. 
 A supervised multivariate time series binary classification model (PE or no PE) was built based on Long Short-Term Memory (LSTM) recurrent neural network with the time series data of Q, R, S peaks, and complex durations of the ECG wave.
 
+## Contributors (in Alphabetical Order)
+
+Timothy Green, Yuanyuan Shen, Peng Zhao, Yan Zhuang
+
 ## My role
 
 Build the LSTM time series classification model. 
