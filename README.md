@@ -27,6 +27,6 @@ A supervised multivariate time series binary classification model (PE or no PE) 
 
 Timothy Green, Yuanyuan Shen, Peng Zhao, Yan Zhuang
 
-## My role
+## My Role
 
 Build the LSTM time series classification model. 
